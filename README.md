@@ -8,7 +8,6 @@
 
 ---
 
-##  GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -31,7 +30,7 @@
 
 
 
-## Technologies & Tools
+## 💻 Technologies & Tools
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -47,7 +46,7 @@
 
 ---
 
-##  Contact
+##  ☎️ Contact
 
 <div align="center">
   <a href="mailto:tiagorossinicorrea@gmail.com" target="_blank">
