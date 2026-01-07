@@ -15,15 +15,13 @@ Pronouns: he/him
 <div align="center">
   <img
     height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
   />
   <img
     height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&langs_count=10&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
   />
 </div>
-
----
 
 ## 🚀 Technologies & Tools
 
@@ -37,7 +35,6 @@ Pronouns: he/him
   <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Microsoft Office" height="35" width="45" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg">
 </div>
 
 ---
