@@ -12,12 +12,10 @@ Pronouns: he/him
 
 ##  GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/tiagorossini2007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&langs_count=8&theme=dracula)
+
 
 
 ## Technologies & Tools
