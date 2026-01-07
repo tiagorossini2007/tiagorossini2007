@@ -6,15 +6,28 @@
 🌍 English level: C1 (Advanced)  
 🧠 Always learning and improving through real projects  
 
-Pronouns: he/him
-
 ---
 
 ##  GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=dracula)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&langs_count=8&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagorossini2007&theme=github_dark)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagorossini2007&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagorossini2007&theme=github_dark" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagorossini2007&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagorossini2007&theme=github_dark&utcOffset=-3" height="160"/>
+</div>
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagorossini2007&theme=github-compact)
+
 
 
 
