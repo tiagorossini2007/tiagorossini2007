@@ -10,20 +10,17 @@ Pronouns: he/him
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-  />
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
-  />
+  <a href="https://github.com/tiagorossini2007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
-## 🚀 Technologies & Tools
+
+## Technologies & Tools
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -39,7 +36,7 @@ Pronouns: he/him
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <div align="center">
   <a href="mailto:tiagorossinicorrea@gmail.com" target="_blank">
