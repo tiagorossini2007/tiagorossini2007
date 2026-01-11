@@ -11,28 +11,16 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagorossini2007&theme=github_dark)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagorossini2007&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagorossini2007&theme=github_dark" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagorossini2007&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagorossini2007&theme=github_dark&utcOffset=-3" height="160"/>
-</div>
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagorossini2007&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagorossini2007&theme=react-dark)
 
 
 
+---
 
 ## 💻 Technologies & Tools
 
-<div align="center" style="display: inline_block"><br>
+<div align="center">
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -46,10 +34,10 @@
 
 ---
 
-##  ☎️ Contact
+## ☎️ Contact
 
 <div align="center">
-  <a href="mailto:tiagorossinicorrea@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tiagorossinicorrea@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/tiagorossinii_/" target="_blank">
