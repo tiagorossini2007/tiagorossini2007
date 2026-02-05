@@ -1,6 +1,5 @@
 
 Hey! I'm Tiago Rossini 👋 
-
 Systems Development Technician  
 Fullstack Developer focused on React & TypeScript  
 ⚛️ Frontend: React • TypeScript • JavaScript  
