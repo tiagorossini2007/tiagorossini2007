@@ -2,20 +2,26 @@
 Hey! I'm Tiago Rossini 👋 
 Systems Development Technician  
 Fullstack Developer focused on React & TypeScript  
-⚛️ Frontend: React • TypeScript • JavaScript  
-🛠 Backend: Java (OOP) • Python • PHP  
-🎨 UI/UX Design  
-🌍 English C1  
-🚀 Building and shipping real projects
----
+Frontend: React • TypeScript • JavaScript  
+Backend: Java (OOP) • Python • PHP  
+UI/UX Design  
+English C1  
+Building and shipping real projects
 
+---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&theme=react&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagorossini2007&theme=react&hide_border=true"/>
+</div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagorossini2007&theme=react-dark)
-
-
 
 ---
 
@@ -25,6 +31,7 @@ Fullstack Developer focused on React & TypeScript
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,4 +55,3 @@ Fullstack Developer focused on React & TypeScript
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
