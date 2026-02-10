@@ -12,10 +12,7 @@ Building and shipping real projects
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&theme=react&hide_border=true"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagorossini2007&theme=react&hide_border=true"/>
