@@ -1,12 +1,29 @@
 
-Hey!👋 I'm Tiago Rossini, 
+Hi, I'm Tiago Rossini  
+
 Systems Development Technician  
-Fullstack Developer focused on React & TypeScript  
-Frontend: React • TypeScript • JavaScript  
-Backend: Java (OOP) • Python • PHP  
-UI/UX Design  
-English C1  
-Building and shipping real projects
+Fullstack Developer focused on React, TypeScript, Java and Python  
+
+---
+Tech Stack
+
+Frontend:
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Flutter • Dart  
+
+Backend:
+Node.js • Java (OOP) • PHP (Laravel) • Python  
+
+Databases:
+MySQL • SQL  
+
+Automation & Integrations:
+n8n  
+
+Tools:
+IntelliJ IDEA • Figma • Postman • VS Code  
+
+English C1 (TOEIC Certified)  
+Building real-world projects and continuously improving technical skills.
 
 ---
 
