@@ -1,6 +1,7 @@
 
 **Hi 👋, I'm Tiago Rossini**
 
+Computer Science
 Systems Development Technician  
 Fullstack Developer focused on React, TypeScript, Java and Python  
 
