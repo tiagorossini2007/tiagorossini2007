@@ -17,13 +17,7 @@ Building real-world projects and continuously improving technical skills 🔥�
 ---
 ## 📊 GitHub Stats
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tiagorossini2007&show_icons=true&theme=react&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorossini2007&layout=compact&theme=react&hide_border=true"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=tiagorossini2007&theme=react&hide_border=true"/>
-
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=tiagorossini2007&theme=react&hide_border=true"/>
 </div>
 ---
 ##  Technologies
