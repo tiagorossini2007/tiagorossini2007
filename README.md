@@ -19,7 +19,8 @@ Building real-world projects and continuously improving technical skills ğŸ”¥ğŸš
 <div align="center">
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=tiagorossini2007&theme=react&hide_border=true"/>
 </div>
----
+
+
 ##  Technologies
 
 ###  Frontend
